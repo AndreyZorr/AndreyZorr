@@ -1,5 +1,7 @@
-Hi! My name is Andrey. Welcome!  
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+Hi! My name is Andrey. Welcome!
 👨‍💻 About Me :
 I am a programmer from the city of Penza, I am 35 years old.
 
