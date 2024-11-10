@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi! My name is Andrey. Welcome! 
+👨‍💻 About Me :
+I am a programmer from the city of Penza, I am 35 years old.
+I’m working as a Software Engineer and contributing to backend for building web applications.
+📫 Contacts:
+Telegram: @AndreyA58
+Email: alpatov58@gmail.com.
+🔭 Technologies:
+My Skills
 
-<!--
-**AndreyZorr/AndreyZorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Projects:
+Cinema Platform (Web service);
